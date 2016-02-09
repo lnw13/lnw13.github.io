@@ -1,0 +1,46 @@
+
+		
+		body{ 
+			font-family: 'Inconsolata' ;
+			font-size: 14px;
+			text-align: justify;
+			background: #A7959C;
+
+		}
+		h1 {
+			font-family: 'Pacifico', cursive;
+			font-size: 70px;
+			color: #2C161E;
+			text-align: center;
+			line-height: 100px;
+			-webkit-text-stroke-width: 1px;
+			-webkit-text-stroke-color: #57494E;
+
+		}
+		div {
+			height: 300px;
+			background-size: cover;
+			position: relative;
+			color: #fff;
+			margin: 40px;
+			font-size: 20px;
+			padding: 20px;
+			
+		}
+		p {
+			text-align: center;
+			vertical-align: middle;
+			color: rgba(250 250 250 1);
+			background: #000 ;
+			border-radius: 15px;
+			background: rgba(0, 0, 0, 0.4);
+		}
+.apple {
+	background-image: url("http://dreamatico.com/data_images/night/night-8.jpg");
+}
+.pear {
+	background-image: url("http://www.woking.gov.uk/images/instances/00004A290FD4.C0A801BA.000079A7.0015.jpg");
+}
+.orange {
+	background-image: url("http://www.midoceanpartners.com/i/ocean_still.jpg");
+}
